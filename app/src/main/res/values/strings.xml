@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mentoring week 4</string>
+    <string name="nama_pengunjung">Nama Pengunjung</string>
+    <string name="alamat">Alamat</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">L</string>
+    <string name="perempuan">P</string>
+    <string name="simpan">Simpan</string>
+    <string name="todo">TODO</string>
+    <string name="perbaharui">Perbaharui</string>
+    <string name="onfailure_input">\"onFailure input: \"</string>
+    <string name="crud_api_data_pengunjung">APLIKASI CRUD API DATA PENGUNJUNG</string>
+</resources>
